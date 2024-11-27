@@ -1,0 +1,4 @@
+streamlit==1.40.1
+bbcode==1.1.0
+google-cloud-storage==2.18.0
+google-cloud-firestore==2.18.0
